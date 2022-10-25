@@ -1,0 +1,202 @@
+body {
+    margin: 0;
+    top: 0;
+}
+
+.wrapper-1 {
+    background-image: url(./light-blue-wallpaper-7846-8139-hd-wallpapers.webp);
+    min-height: 45rem;
+
+
+
+}
+
+
+
+.wrapper {
+    display: flex;
+    justify-content: space-between;
+    margin-left: 2rem;
+    margin-right: 2rem;
+
+
+}
+
+.name-font {
+    font-weight: bolder;
+    font-size: 1.6rem;
+    color: white;
+    font-family: 'Roboto', sans-serif;
+}
+
+
+
+
+
+.flex-item {
+    display: flex;
+    gap: 1.2rem;
+    list-style-type: none;
+}
+
+.bi-linkedin {
+    border-radius: 0.2rem;
+    color: white;
+}
+
+
+
+.bi-twitter {
+    color: white;
+}
+
+
+
+.bi-github {
+    color: white;
+}
+
+
+
+.intro-message-1 {
+    font-weight: bolder;
+    font-size: 3rem;
+    text-align: center;
+    padding-top: 5rem;
+    font-family: 'Roboto', sans-serif;
+    color: white;
+
+
+}
+
+.intro-message-2 {
+    font-weight: lighter;
+    font-size: 3rem;
+    text-align: center;
+    line-height: 0.4rem;
+    letter-spacing: 0.2rem;
+    color: white;
+    font-family: "Trattatello, fantasy";
+
+}
+
+.body-message-1 {
+    font-family: 'Roboto', sans-serif;
+    text-align: center;
+    margin-top: 8rem;
+    font-size: 2rem;
+    line-height: 1rem;
+    font-weight: 500;
+
+}
+
+h1 {
+    text-align: center;
+    margin-top: 6rem;
+    line-height: 2rem;
+    font-size: 3rem;
+    font-family: 'Dancing Script', cursive;
+
+}
+
+
+.project {
+    display: flex;
+    justify-content: center;
+    gap: 2rem;
+
+    margin-top: 6rem;
+}
+
+.project-3 {
+    display: flex;
+    justify-content: center;
+    gap: 2rem;
+    margin-top: 3rem;
+
+}
+
+.project-1 {
+    display: flex;
+    margin-left: 5rem;
+    margin-right: 5rem;
+    gap: 2rem;
+
+}
+
+
+
+.sett {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+}
+
+.bio {
+    text-align: justify;
+    margin-top: 10rem;
+}
+
+h2 {
+    font-size: 5rem;
+    text-align: center;
+    font-family: 'Dancing Script', cursive;
+
+}
+
+.bio-1 {
+    font-size: 1.3rem;
+    line-height: 1rem;
+    margin-top: -2rem;
+    font-family: 'Roboto', sans-serif;
+    display: flex;
+    justify-content: center;
+
+
+}
+
+.bio-2 {
+    font-size: 1.3rem;
+    line-height: 1rem;
+    display: flex;
+    justify-content: center;
+    margin-top: 3rem;
+    font-family: 'Roboto', sans-serif;
+
+}
+
+.last-message {
+    text-align: center;
+    margin-top: 6rem;
+    line-height: 3rem;
+    font-size: 3rem;
+    font-family: 'Dancing Script', cursive;
+}
+
+.info {
+    background-color: #7bd0de;
+    min-height: 20rem;
+    margin-top: 4rem;
+
+}
+
+.info-1 {
+
+    font-family: 'Roboto', sans-serif;
+    font-weight: lighter;
+    font-size: 2rem;
+    text-align: center;
+    color: black;
+    line-height: 1rem;
+    padding-top: 6rem;
+    padding-bottom: 6rem;
+}
+
+footer {
+    margin-top: 2rem;
+    text-align: center;
+    font-size: small;
+    font-weight: lighter;
+    margin-bottom: 2rem;
+}
